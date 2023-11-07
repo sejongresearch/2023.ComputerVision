@@ -42,7 +42,7 @@
 | 8 | 중간고사 |  | 2023.10.26 |  | |
 | 9 | 딥러닝과 파이토치 <br> (5.1-5.2)| [PDF](https://github.com/sejongresearch/2023.ComputerVision/blob/main/LectureNotes/%5B%E1%84%8F%E1%85%A5%E1%86%B7%E1%84%91%E1%85%B2%E1%84%90%E1%85%A5%E1%84%87%E1%85%B5%E1%84%8C%E1%85%A5%E1%86%AB%5D%5Bch6%5D%20%E1%84%83%E1%85%B5%E1%86%B8%E1%84%85%E1%85%A5%E1%84%82%E1%85%B5%E1%86%BC%E1%84%80%E1%85%AA%20%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A9%E1%84%8E%E1%85%B5%20(2023).pdf)  | 2023.10.31 | [실습코드](https://www.kaggle.com/code/limguentaek/chapter-05-pytorch) | |
 | 9 | 딥러닝과 파이토치 <br> (5.3-5.4)| [PDF](https://github.com/sejongresearch/2023.ComputerVision/blob/main/LectureNotes/%5B%E1%84%8F%E1%85%A5%E1%86%B7%E1%84%91%E1%85%B2%E1%84%90%E1%85%A5%E1%84%87%E1%85%B5%E1%84%8C%E1%85%A5%E1%86%AB%5D%5Bch6%5D%20%E1%84%83%E1%85%B5%E1%86%B8%E1%84%85%E1%85%A5%E1%84%82%E1%85%B5%E1%86%BC%E1%84%80%E1%85%AA%20%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A9%E1%84%8E%E1%85%B5%20(2023).pdf)  | 2023.11.02 | [리더보드](https://www.kaggle.com/t/e92f887a6fcc4294a604de64e69f1408) | 캐글 마감 <br> 11/8|
-| 10 | | [PDF]()  | 2023.11.07 | [리더보드](https://www.kaggle.com/t/48df4fb3d4f541c1b59e827e8ec79e70) | |
+| 10 | 딥러닝과 파이토치 <br> (5.5-5.7) | [PDF](https://github.com/sejongresearch/2023.ComputerVision/blob/main/LectureNotes/%5B%E1%84%8F%E1%85%A5%E1%86%B7%E1%84%91%E1%85%B2%E1%84%90%E1%85%A5%E1%84%87%E1%85%B5%E1%84%8C%E1%85%A5%E1%86%AB%5D%5Bch6%5D%20%E1%84%83%E1%85%B5%E1%86%B8%E1%84%85%E1%85%A5%E1%84%82%E1%85%B5%E1%86%BC%E1%84%80%E1%85%AA%20%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A9%E1%84%8E%E1%85%B5%20(2023).pdf)   | 2023.11.07 | [리더보드](https://www.kaggle.com/t/48df4fb3d4f541c1b59e827e8ec79e70) | |
 
 ## 참고자료
 - 파이썬으로 만드는 인공지능/오일석, 이진선
